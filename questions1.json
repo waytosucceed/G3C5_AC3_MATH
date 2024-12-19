@@ -1,0 +1,33 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Zoe and Ben noticed horses grazing in the pastures. Skip count backwards by 10s from 40 and fill in the missing numbers.",
+    "options":["40","","",""],
+    "answers": ["40","30","20","10"]
+  },
+  {
+    "questionNo": 2,
+    "question": " They saw rows of sheep in the distance. Skip count backwards by 10s from  42 and fill in the missing numbers.",
+    "options":["42","","",""],
+    "answers": ["42","32","22","12"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": " The countryside was full of beautiful birds flying above. Skip count backwards by 10s from 97 and fill in the missing numbers.",
+    "options":["97","","",""],
+    "answers": ["97","87","77","67"]
+  },
+  {
+    "questionNo": 4,
+    "question": "On the trip, they saw small cottages scattered along the road. Skip count backwards by 10s from 155 and fill in the missing numbers.",
+    "options":["155","","",""],
+    "answers": ["155","145","135","125"]
+  },
+  {
+    "questionNo": 5,
+    "question": " During their ride, Zoe and Ben noticed windmills spinning on the hills. Skip count backwards by 10s from 199  and fill in the missing numbers.",
+    "options":["199","","",""],
+    "answers": ["199","189","179","169"]
+  }
+]

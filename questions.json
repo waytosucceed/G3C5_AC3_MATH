@@ -1,0 +1,38 @@
+[
+  {
+    "questionNo": 1,
+    "question": "As the bus moved through the countryside, they saw rows of tall sunflowers. Skip count by 10s and fill in the missing numbers.",
+    "options":["22","","42","","62",""],
+    "answers": ["22","32","42","52","62","72"],
+    "secondImg":"./images/1.jpg"
+  },
+  {
+    "questionNo": 2,
+    "question": "They saw fields full of pumpkins on the way. Skip count by 10s and fill in the missing numbers.",
+    "options":["39","","","","79",""],
+    "answers": ["39","49","59","69","79","89"],
+    "secondImg":"./images/1.jpg"
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "As they passed a farm, they saw groups of chickens walking in the yard. Skip count by 10s and fill in the missing numbers.",
+    "options":["16","","36","","56",""],
+    "answers": ["16","26","36","46","56","66"],
+    "secondImg":"./images/1.jpg"
+  },
+  {
+    "questionNo": 4,
+    "question": "As the bus drove by, Zoe and Ben saw rows of vegetable gardens. Skip count by 10s and fill in the missing numbers.",
+    "options":["81","","101","","121",""],
+    "answers": ["81","91","101","111","121","131"],
+    "secondImg":"./images/1.jpg"
+  },
+  {
+    "questionNo": 5,
+    "question": "During the trip, they saw tall wind turbines spinning on the hills. Skip count by 10s and fill in the missing numbers.",
+    "options":["123","","143","","163",""],
+    "answers": ["123","133","143","153","163","173"],
+    "secondImg":"./images/1.jpg"
+  }
+]

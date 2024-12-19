@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "On the bus trip, Zoe and Ben saw cows in the fields. Skip count by 10s and tell how many cows they saw in total.<br><img width='55%' src='./images/1.png'>",
+        "options": [
+            "30",
+            "40",
+            "50",
+            "60"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "During the trip, they spotted trees growing along the road. Skip count by 10s and tell how many trees they saw.<br><img width='55%' src='./images/2.png'>",
+        "options": [
+            "30",
+            "20",
+            "40",
+            "50"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3",
+        "question": "In the fields, there were rows of colorful flowers. Skip count by 10s and tell how many flowers they saw.<br><img width='55%' src='./images/3.png'>",
+        "options": [
+            "50",
+            "60",
+            "70",
+            "80"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4",
+        "question": "As they passed the river, they saw groups of ducks swimming. Skip count by 10s and tell how many ducks they saw.<br><img width='55%' src='./images/4.png'>",
+        "options": [
+            "30",
+            "20",
+            "40",
+            "50"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q5",
+        "question": "At one point, the bus passed a field with bales of hay. Skip count by 10s and tell how many bales of hay there were.<br><img width='55%' src='./images/5.png'>",
+        "options": [
+            "50",
+            "40",
+            "70",
+            "60"
+        ],
+        "correct": 3
+    }
+]
